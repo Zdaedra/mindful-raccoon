@@ -1,0 +1,437 @@
+{
+ "version": 2,
+ "languages": [
+  "ru",
+  "en",
+  "es",
+  "fr",
+  "de"
+ ],
+ "note": "Usage tips — Alexey's own practice advice, shown as a dismissable banner. Not the masters' instructions (teachings.json): different genre, different place in the app. Russian is the original; the other four are translations of it.",
+ "sections": [
+  {
+   "id": "frequency",
+   "image": "clock",
+   "title": {
+    "ru": "О частоте и длительности",
+    "en": "On frequency and length",
+    "es": "Sobre la frecuencia y la duración",
+    "fr": "Sur la fréquence et la durée",
+    "de": "Über Häufigkeit und Dauer"
+   }
+  },
+  {
+   "id": "entering",
+   "image": "leaf",
+   "title": {
+    "ru": "О входе в сессию",
+    "en": "On entering a sitting",
+    "es": "Sobre entrar en la sesión",
+    "fr": "Sur l’entrée en séance",
+    "de": "Über den Eintritt in die Sitzung"
+   }
+  },
+  {
+   "id": "final-bell",
+   "image": "bell",
+   "title": {
+    "ru": "О финальном гонге",
+    "en": "On the final bell",
+    "es": "Sobre el gong final",
+    "fr": "Sur le gong final",
+    "de": "Über den Schlussgong"
+   }
+  },
+  {
+   "id": "through-day",
+   "image": "sun.max",
+   "title": {
+    "ru": "О практике в течение дня",
+    "en": "On practice through the day",
+    "es": "Sobre la práctica a lo largo del día",
+    "fr": "Sur la pratique tout au long de la journée",
+    "de": "Über die Praxis im Lauf des Tages"
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "short-sessions-deeper",
+   "section": "frequency",
+   "title": {
+    "ru": "Короткие сессии, на шаг глубже",
+    "en": "Short sittings, a step deeper",
+    "es": "Sesiones cortas, un paso más hondo",
+    "fr": "Séances courtes, un pas plus profond",
+    "de": "Kurze Sitzungen, eine Stufe tiefer"
+   },
+   "text": {
+    "ru": "По первому колоколу полностью оставьте дела и воспоминания и войдите в практику. По второму не спешите возвращаться — побудьте ещё немного, совсем коротко, но глубже, на уже набранном состоянии.",
+    "en": "At the first bell, put your affairs and memories down completely and step into practice. At the second, don’t hurry back — stay a little longer, very briefly but deeper, on the state already gathered.",
+    "es": "Al primer campanazo, suelte por completo sus asuntos y recuerdos y entre en la práctica. Al segundo, no vuelva de inmediato: quédese un poco más, muy brevemente pero más hondo, en el estado ya reunido.",
+    "fr": "Au premier son de cloche, laissez complètement vos affaires et vos souvenirs et entrez dans la pratique. Au second, ne revenez pas tout de suite : restez encore un peu, très brièvement mais plus profondément, dans l’état déjà rassemblé.",
+    "de": "Beim ersten Glockenschlag lassen Sie Ihre Angelegenheiten und Erinnerungen vollständig los und treten in die Praxis ein. Beim zweiten kehren Sie nicht sofort zurück — bleiben Sie noch einen Moment, ganz kurz, aber tiefer, in dem bereits gesammelten Zustand."
+   }
+  },
+  {
+   "id": "not-depth-but-return",
+   "section": "frequency",
+   "title": {
+    "ru": "Не глубина, а возвращение",
+    "en": "Not depth, but remembering",
+    "es": "No la hondura, sino el regreso",
+    "fr": "Non la profondeur, mais le retour",
+    "de": "Nicht Tiefe, sondern Erinnern"
+   },
+   "text": {
+    "ru": "Короткие частые сессии тренируют не глубину, а способность снова вспоминать о практике посреди обычного дня.",
+    "en": "Short, frequent sittings train not depth but the ability to remember the practice again in the middle of an ordinary day.",
+    "es": "Las sesiones cortas y frecuentes no entrenan la hondura, sino la capacidad de volver a acordarse de la práctica en medio de un día corriente.",
+    "fr": "Les séances courtes et fréquentes n’entraînent pas la profondeur, mais la capacité de se souvenir à nouveau de la pratique au milieu d’une journée ordinaire.",
+    "de": "Kurze, häufige Sitzungen üben nicht die Tiefe, sondern die Fähigkeit, sich mitten an einem gewöhnlichen Tag wieder an die Praxis zu erinnern."
+   }
+  },
+  {
+   "id": "fifteen-returns",
+   "section": "frequency",
+   "title": {
+    "ru": "Пятнадцать возвращений в день",
+    "en": "Fifteen returns a day",
+    "es": "Quince regresos al día",
+    "fr": "Quinze retours par jour",
+    "de": "Fünfzehn Rückkehren am Tag"
+   },
+   "text": {
+    "ru": "Для тренировки вспоминания попробуйте до пятнадцати коротких сессий в день — примерно по одному возвращению в час.",
+    "en": "To train remembering, try up to fifteen short sittings a day — roughly one return every hour.",
+    "es": "Para entrenar el recuerdo, pruebe hasta quince sesiones cortas al día: aproximadamente un regreso por hora.",
+    "fr": "Pour entraîner le souvenir, essayez jusqu’à quinze séances courtes par jour — environ un retour par heure.",
+    "de": "Um das Erinnern zu üben, versuchen Sie bis zu fünfzehn kurze Sitzungen am Tag — etwa eine Rückkehr pro Stunde."
+   }
+  },
+  {
+   "id": "long-and-short",
+   "section": "frequency",
+   "title": {
+    "ru": "Длинные и короткие",
+    "en": "Long and short",
+    "es": "Largas y cortas",
+    "fr": "Longues et courtes",
+    "de": "Lang und kurz"
+   },
+   "text": {
+    "ru": "Несколько длинных сессий развивают устойчивость, а множество коротких — быстроту возвращения; эти режимы лучше чередовать.",
+    "en": "A few long sittings build stability; many short ones build the speed of return. It is better to alternate the two.",
+    "es": "Unas pocas sesiones largas desarrollan la estabilidad; muchas cortas, la rapidez del regreso. Conviene alternar ambos modos.",
+    "fr": "Quelques séances longues développent la stabilité ; de nombreuses séances courtes, la rapidité du retour. Mieux vaut alterner les deux.",
+    "de": "Wenige lange Sitzungen entwickeln Stabilität, viele kurze die Schnelligkeit der Rückkehr; beide Formen wechseln sich am besten ab."
+   }
+  },
+  {
+   "id": "not-about-minutes",
+   "section": "frequency",
+   "title": {
+    "ru": "Не в минутах дело",
+    "en": "Not a matter of minutes",
+    "es": "No es cuestión de minutos",
+    "fr": "Ce n’est pas une question de minutes",
+    "de": "Es geht nicht um Minuten"
+   },
+   "text": {
+    "ru": "Не оценивайте короткую сессию по длительности: её задача может состоять только в полном переключении из рассеянности в присутствие.",
+    "en": "Don’t judge a short sitting by its length: its whole task may be the complete switch from distraction into presence.",
+    "es": "No juzgue una sesión corta por su duración: su tarea puede consistir solo en el cambio completo de la dispersión a la presencia.",
+    "fr": "Ne jugez pas une séance courte à sa durée : sa tâche peut se limiter au passage complet de la dispersion à la présence.",
+    "de": "Beurteilen Sie eine kurze Sitzung nicht nach ihrer Dauer: Ihre Aufgabe kann allein im vollständigen Wechsel von der Zerstreuung in die Gegenwart bestehen."
+   }
+  },
+  {
+   "id": "signal-becomes-habit",
+   "section": "frequency",
+   "title": {
+    "ru": "Когда сигнал уже не нужен",
+    "en": "When the signal is no longer needed",
+    "es": "Cuando la señal ya no hace falta",
+    "fr": "Quand le signal devient inutile",
+    "de": "Wenn das Signal nicht mehr nötig ist"
+   },
+   "text": {
+    "ru": "Пусть напоминание постепенно станет внутренней привычкой: со временем вы начнёте возвращаться к практике раньше, чем прозвучит сигнал.",
+    "en": "Let the reminder gradually become an inner habit: in time you will start returning to practice before the signal sounds.",
+    "es": "Deje que el recordatorio se convierta poco a poco en un hábito interior: con el tiempo empezará a volver a la práctica antes de que suene la señal.",
+    "fr": "Laissez le rappel devenir peu à peu une habitude intérieure : avec le temps, vous reviendrez à la pratique avant que le signal ne sonne.",
+    "de": "Lassen Sie die Erinnerung allmählich zur inneren Gewohnheit werden: Mit der Zeit kehren Sie zur Praxis zurück, bevor das Signal ertönt."
+   }
+  },
+  {
+   "id": "enter-without-remainder",
+   "section": "entering",
+   "title": {
+    "ru": "Вход без остатка",
+    "en": "Enter without remainder",
+    "es": "Entrar sin reservas",
+    "fr": "Entrer sans reste",
+    "de": "Ohne Rest eintreten"
+   },
+   "text": {
+    "ru": "Не входите в практику наполовину: сначала отпустите незавершённый разговор с собой, а затем полностью посвятите время сессии.",
+    "en": "Don’t enter practice halfway: first let go of the unfinished conversation with yourself, then give the time to the sitting completely.",
+    "es": "No entre en la práctica a medias: suelte primero la conversación inconclusa consigo mismo y luego dedique el tiempo por entero a la sesión.",
+    "fr": "N’entrez pas à moitié dans la pratique : laissez d’abord la conversation inachevée avec vous-même, puis consacrez entièrement ce temps à la séance.",
+    "de": "Treten Sie nicht halb in die Praxis ein: Lassen Sie zuerst das unbeendete Gespräch mit sich selbst los und widmen Sie die Zeit dann ganz der Sitzung."
+   }
+  },
+  {
+   "id": "pause-before-start",
+   "section": "entering",
+   "title": {
+    "ru": "Пауза перед стартом",
+    "en": "A pause before starting",
+    "es": "Una pausa antes de empezar",
+    "fr": "Une pause avant de lancer",
+    "de": "Eine Pause vor dem Start"
+   },
+   "text": {
+    "ru": "Перед запуском таймера остановитесь на несколько секунд, чтобы не переносить в практику скорость и напряжение предыдущего занятия.",
+    "en": "Stop for a few seconds before starting the timer, so that the speed and tension of what you were just doing don’t carry into the practice.",
+    "es": "Deténgase unos segundos antes de iniciar el temporizador, para no llevar a la práctica la prisa y la tensión de lo anterior.",
+    "fr": "Arrêtez-vous quelques secondes avant de lancer le minuteur, pour ne pas emporter dans la pratique la vitesse et la tension de l’activité précédente.",
+    "de": "Halten Sie ein paar Sekunden inne, bevor Sie den Timer starten, damit Tempo und Anspannung der vorherigen Tätigkeit nicht in die Praxis mitgehen."
+   }
+  },
+  {
+   "id": "short-but-whole",
+   "section": "entering",
+   "title": {
+    "ru": "Лучше коротко, но полностью",
+    "en": "Better short and whole",
+    "es": "Mejor corta y entera",
+    "fr": "Mieux vaut court et entier",
+    "de": "Lieber kurz und ganz"
+   },
+   "text": {
+    "ru": "Лучше провести короткую сессию без остатка, чем долго сидеть, продолжая внутри заниматься прежними мыслями.",
+    "en": "Better a short sitting given entirely than a long one spent inwardly continuing your earlier thoughts.",
+    "es": "Mejor una sesión corta entregada por completo que estar sentado mucho tiempo siguiendo por dentro con los pensamientos de antes.",
+    "fr": "Mieux vaut une séance courte menée sans reste qu’une longue passée à poursuivre intérieurement les pensées d’avant.",
+    "de": "Besser eine kurze Sitzung ohne Rest als lange zu sitzen und innerlich die alten Gedanken weiterzuführen."
+   }
+  },
+  {
+   "id": "one-mode-at-a-time",
+   "section": "entering",
+   "title": {
+    "ru": "Один режим за раз",
+    "en": "One mode at a time",
+    "es": "Un modo cada vez",
+    "fr": "Un mode à la fois",
+    "de": "Ein Modus zur Zeit"
+   },
+   "text": {
+    "ru": "Не совмещайте практику с работой, перепиской или ожиданием ответа: тренируйте само движение полного выхода из одного режима в другой.",
+    "en": "Don’t combine practice with work, messages or waiting for a reply: train the movement itself — leaving one mode completely for another.",
+    "es": "No combine la práctica con el trabajo, los mensajes o la espera de una respuesta: entrene el movimiento mismo de salir por completo de un modo y entrar en otro.",
+    "fr": "Ne mêlez pas la pratique au travail, aux messages ou à l’attente d’une réponse : entraînez le mouvement même — sortir complètement d’un mode pour entrer dans un autre.",
+    "de": "Verbinden Sie die Praxis nicht mit Arbeit, Nachrichten oder dem Warten auf eine Antwort: Üben Sie die Bewegung selbst — den vollständigen Wechsel von einem Modus in den anderen."
+   }
+  },
+  {
+   "id": "every-entry-is-training",
+   "section": "entering",
+   "title": {
+    "ru": "Каждый вход — тренировка",
+    "en": "Every entry is training",
+    "es": "Cada entrada es un entrenamiento",
+    "fr": "Chaque entrée est un entraînement",
+    "de": "Jeder Eintritt ist Übung"
+   },
+   "text": {
+    "ru": "Каждый вход в сессию — отдельная тренировка способности оставить текущую историю и начать практику заново.",
+    "en": "Each entry into a sitting is its own training in the ability to leave the current story and begin the practice afresh.",
+    "es": "Cada entrada en una sesión es un entrenamiento aparte de la capacidad de dejar la historia en curso y empezar la práctica de nuevo.",
+    "fr": "Chaque entrée en séance est un entraînement à part : laisser l’histoire en cours et recommencer la pratique.",
+    "de": "Jeder Eintritt in eine Sitzung ist eine eigene Übung darin, die laufende Geschichte zu lassen und die Praxis neu zu beginnen."
+   }
+  },
+  {
+   "id": "bell-is-not-the-end",
+   "section": "final-bell",
+   "title": {
+    "ru": "Гонг — не конец",
+    "en": "The bell is not the end",
+    "es": "El gong no es el final",
+    "fr": "Le gong n’est pas la fin",
+    "de": "Der Gong ist nicht das Ende"
+   },
+   "text": {
+    "ru": "Финальный гонг не обязан завершать практику: используйте его как сигнал к ещё одному полному возвращению.",
+    "en": "The final bell does not have to end the practice: take it as the signal for one more complete return.",
+    "es": "El gong final no tiene por qué terminar la práctica: tómelo como la señal de un regreso completo más.",
+    "fr": "Le gong final n’est pas obligé de clore la pratique : prenez-le comme le signal d’un retour complet de plus.",
+    "de": "Der Schlussgong muss die Praxis nicht beenden: Nehmen Sie ihn als Signal für eine weitere vollständige Rückkehr."
+   }
+  },
+  {
+   "id": "do-not-move-at-once",
+   "section": "final-bell",
+   "title": {
+    "ru": "Не вставать сразу",
+    "en": "Don’t move at once",
+    "es": "No se mueva enseguida",
+    "fr": "Ne bougez pas tout de suite",
+    "de": "Nicht sofort aufstehen"
+   },
+   "text": {
+    "ru": "После гонга не двигайтесь сразу; соберите накопленное внимание и вложите его в последние мгновения сессии.",
+    "en": "After the bell, don’t move straight away; gather the attention you have collected and put it into the last moments of the sitting.",
+    "es": "Después del gong no se mueva enseguida; reúna la atención acumulada y póngala en los últimos instantes de la sesión.",
+    "fr": "Après le gong, ne bougez pas aussitôt ; rassemblez l’attention accumulée et placez-la dans les derniers instants de la séance.",
+    "de": "Bewegen Sie sich nach dem Gong nicht sofort; sammeln Sie die angesammelte Aufmerksamkeit und legen Sie sie in die letzten Augenblicke der Sitzung."
+   }
+  },
+  {
+   "id": "gap-after-the-bell",
+   "section": "final-bell",
+   "title": {
+    "ru": "Промежуток после гонга",
+    "en": "A gap after the bell",
+    "es": "Un intervalo tras el gong",
+    "fr": "Un intervalle après le gong",
+    "de": "Eine Lücke nach dem Gong"
+   },
+   "text": {
+    "ru": "Пусть после гонга останется небольшой промежуток без задачи и ожидания — только полное присутствие.",
+    "en": "Let a small gap remain after the bell, with no task and no expectation — only full presence.",
+    "es": "Deje que tras el gong quede un pequeño intervalo sin tarea ni espera: solo presencia plena.",
+    "fr": "Laissez subsister après le gong un petit intervalle sans tâche ni attente — rien que la présence entière.",
+    "de": "Lassen Sie nach dem Gong eine kleine Lücke ohne Aufgabe und ohne Erwartung — nur volle Gegenwart."
+   }
+  },
+  {
+   "id": "finish-then-move",
+   "section": "final-bell",
+   "title": {
+    "ru": "Сначала завершить, потом двигаться",
+    "en": "Finish first, then move",
+    "es": "Primero terminar, luego moverse",
+    "fr": "D’abord finir, ensuite bouger",
+    "de": "Erst beenden, dann bewegen"
+   },
+   "text": {
+    "ru": "Не позволяйте звуку автоматически выбросить вас обратно в дела; сначала осознанно завершите практику, а затем переходите к движению.",
+    "en": "Don’t let the sound throw you back into your affairs automatically; end the practice deliberately first, and only then start moving.",
+    "es": "No deje que el sonido lo devuelva automáticamente a sus asuntos; termine primero la práctica de forma consciente y solo después póngase en movimiento.",
+    "fr": "Ne laissez pas le son vous rejeter automatiquement dans vos affaires ; achevez d’abord la pratique consciemment, puis mettez-vous en mouvement.",
+    "de": "Lassen Sie sich vom Klang nicht automatisch in die Angelegenheiten zurückwerfen; beenden Sie die Praxis erst bewusst und gehen Sie dann in Bewegung."
+   }
+  },
+  {
+   "id": "fullest-return",
+   "section": "final-bell",
+   "title": {
+    "ru": "Самое полное возвращение",
+    "en": "The fullest return",
+    "es": "El regreso más pleno",
+    "fr": "Le retour le plus plein",
+    "de": "Die vollste Rückkehr"
+   },
+   "text": {
+    "ru": "Последнее возвращение после гонга может быть самым полным, потому что ум уже успел успокоиться и собраться.",
+    "en": "The last return, after the bell, can be the fullest one, because the mind has already had time to settle and gather.",
+    "es": "El último regreso, tras el gong, puede ser el más pleno, porque la mente ya ha tenido tiempo de calmarse y reunirse.",
+    "fr": "Le dernier retour, après le gong, peut être le plus plein, car l’esprit a déjà eu le temps de s’apaiser et de se rassembler.",
+    "de": "Die letzte Rückkehr nach dem Gong kann die vollste sein, weil der Geist bereits Zeit hatte, ruhig zu werden und sich zu sammeln."
+   }
+  },
+  {
+   "id": "timer-trains-remembering",
+   "section": "through-day",
+   "title": {
+    "ru": "Таймер тренирует память",
+    "en": "The timer trains remembering",
+    "es": "El temporizador entrena el recuerdo",
+    "fr": "Le minuteur entraîne le souvenir",
+    "de": "Der Timer übt das Erinnern"
+   },
+   "text": {
+    "ru": "Главная задача таймера — не только отсчитать сессию, но и тренировать момент, когда вы снова вспоминаете о практике.",
+    "en": "The timer’s main job is not only to count out a sitting, but to train the moment when you remember the practice again.",
+    "es": "La tarea principal del temporizador no es solo medir la sesión, sino entrenar el momento en que usted vuelve a acordarse de la práctica.",
+    "fr": "La tâche principale du minuteur n’est pas seulement de compter la séance, mais d’entraîner le moment où vous vous souvenez à nouveau de la pratique.",
+    "de": "Die Hauptaufgabe des Timers ist nicht nur, eine Sitzung abzuzählen, sondern den Augenblick zu üben, in dem Sie sich wieder an die Praxis erinnern."
+   }
+  },
+  {
+   "id": "puncture-the-day",
+   "section": "through-day",
+   "title": {
+    "ru": "Прокол в ткани дня",
+    "en": "A puncture in the day",
+    "es": "Un pinchazo en el día",
+    "fr": "Une piqûre dans la journée",
+    "de": "Ein Stich in den Tag"
+   },
+   "text": {
+    "ru": "Рассматривайте каждое напоминание как возможность проколоть привычную ткань дня и на мгновение выйти из автоматического режима.",
+    "en": "Treat every reminder as a chance to puncture the familiar fabric of the day and step out of automatic mode for a moment.",
+    "es": "Tome cada recordatorio como la ocasión de perforar el tejido habitual del día y salir por un instante del modo automático.",
+    "fr": "Voyez chaque rappel comme l’occasion de percer le tissu habituel de la journée et de sortir un instant du mode automatique.",
+    "de": "Nehmen Sie jede Erinnerung als Gelegenheit, das gewohnte Gewebe des Tages zu durchstechen und für einen Augenblick aus dem Automatikmodus zu treten."
+   }
+  },
+  {
+   "id": "not-a-special-state",
+   "section": "through-day",
+   "title": {
+    "ru": "Не особое состояние",
+    "en": "Not a special state",
+    "es": "No un estado especial",
+    "fr": "Pas un état particulier",
+    "de": "Kein besonderer Zustand"
+   },
+   "text": {
+    "ru": "Не стремитесь каждый раз создать особое состояние; важнее заметить, что вы забылись, и полностью вернуться.",
+    "en": "Don’t try to produce a special state every time; noticing that you had forgotten, and returning completely, matters more.",
+    "es": "No busque crear cada vez un estado especial; importa más notar que se había olvidado y regresar por completo.",
+    "fr": "Ne cherchez pas à créer chaque fois un état particulier ; il importe davantage de remarquer que vous vous étiez oublié et de revenir entièrement.",
+    "de": "Versuchen Sie nicht, jedes Mal einen besonderen Zustand herzustellen; wichtiger ist zu bemerken, dass Sie sich vergessen hatten, und ganz zurückzukehren."
+   }
+  },
+  {
+   "id": "many-short-moments",
+   "section": "through-day",
+   "title": {
+    "ru": "Много коротких моментов",
+    "en": "Many short moments",
+    "es": "Muchos momentos breves",
+    "fr": "Beaucoup de courts instants",
+    "de": "Viele kurze Momente"
+   },
+   "text": {
+    "ru": "Практика становится частью дня не за счёт одной долгой сессии, а благодаря множеству моментов, когда вы вспоминаете и возвращаетесь.",
+    "en": "Practice becomes part of the day not through one long sitting, but through the many moments when you remember and return.",
+    "es": "La práctica se vuelve parte del día no por una sesión larga, sino por los muchos momentos en que usted recuerda y regresa.",
+    "fr": "La pratique devient partie de la journée non par une longue séance, mais par les nombreux instants où vous vous souvenez et revenez.",
+    "de": "Die Praxis wird nicht durch eine lange Sitzung Teil des Tages, sondern durch die vielen Momente, in denen Sie sich erinnern und zurückkehren."
+   }
+  },
+  {
+   "id": "skill-not-feeling",
+   "section": "through-day",
+   "title": {
+    "ru": "Навык, а не переживание",
+    "en": "The skill, not the feeling",
+    "es": "La destreza, no la sensación",
+    "fr": "L’aptitude, non l’impression",
+    "de": "Die Fähigkeit, nicht das Gefühl"
+   },
+   "text": {
+    "ru": "Переносите в день не переживание от сессии, а сам навык возвращения: заметить рассеянность, остановиться и снова присутствовать.",
+    "en": "Carry into the day not the feeling left by the sitting, but the skill of returning itself: notice the distraction, stop, and be present again.",
+    "es": "Lleve al día no la sensación que deja la sesión, sino la destreza misma de regresar: notar la dispersión, detenerse y volver a estar presente.",
+    "fr": "Emportez dans la journée non l’impression laissée par la séance, mais l’aptitude même à revenir : remarquer la dispersion, s’arrêter, être de nouveau présent.",
+    "de": "Nehmen Sie nicht das Gefühl der Sitzung in den Tag mit, sondern die Fähigkeit zurückzukehren: die Zerstreuung bemerken, innehalten und wieder gegenwärtig sein."
+   }
+  }
+ ]
+}

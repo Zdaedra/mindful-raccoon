@@ -1,0 +1,12 @@
+{
+ "files": {
+  "teachings": {
+   "version": 2,
+   "path": "teachings.json"
+  },
+  "tips": {
+   "version": 2,
+   "path": "tips.json"
+  }
+ }
+}
