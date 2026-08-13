@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "languages": [
   "ru",
   "es",
@@ -6442,26 +6442,6 @@
     "fr": "Évalue un enseignant par sa discipline, sa compassion, sa connaissance et sa capacité à expliquer, non par son seul charisme.",
     "de": "Beurteile einen Lehrer nach Disziplin, Mitgefühl, Wissen und Erklärungsfähigkeit, nicht allein nach Charisma.",
     "ko": "카리스마만 보지 말고 계율과 자비, 지식과 설명 능력으로 스승을 살피세요."
-   }
-  },
-  {
-   "id": 315,
-   "chapter": 4,
-   "author": {
-    "ru": "Карма Чагме",
-    "es": "Karma Chagmé",
-    "en": "Karma Chagmé",
-    "fr": "Karma Chagmé",
-    "de": "Karma Chagmé",
-    "ko": "카르마 착메"
-   },
-   "text": {
-    "ru": "Слушай наставления без трёх ошибок сосуда: не переворачивай смысл, не забывай услышанное и не смешивай его с предвзятостью.",
-    "es": "Escucha las enseñanzas sin los tres defectos del recipiente: no inviertas el sentido, no olvides lo oído y no lo mezcles con prejuicios.",
-    "en": "Listen without the three faults of a vessel: do not invert the meaning, forget what was heard, or mix it with prejudice.",
-    "fr": "Écoute sans les trois défauts du récipient : ne renverse pas le sens, n’oublie pas ce qui est entendu et ne le mêle pas aux préjugés.",
-    "de": "Höre ohne die drei Fehler eines Gefäßes: Verdrehe den Sinn nicht, vergiss das Gehörte nicht und vermische es nicht mit Vorurteilen.",
-    "ko": "그릇의 세 가지 허물 없이 들으세요; 의미를 뒤집지 말고, 들은 것을 잊지 말며, 편견과 섞지 마세요."
    }
   },
   {
