@@ -1,11 +1,11 @@
 {
  "files": {
   "teachings": {
-   "version": 5,
+   "version": 6,
    "path": "teachings.json"
   },
   "tips": {
-   "version": 3,
+   "version": 4,
    "path": "tips.json"
   }
  }
